@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SimpleRegex.Blazor",
   "resources": {
-    "hash": "sha256-w6/4Q0mXgpkODRvhw0Z8271ZLr+BuKGZKJc8UtMU7as=",
+    "hash": "sha256-UfANZUt1U9xKCWMMLNDhRj5kkoDDR9zmJM4oZtv14Hw=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.7m1rijuek4.js": "sha256-ERqvs7Aj650n1Ydca90IMfnkPzusC7/hWWMjmGRL3ME="
     },
@@ -31,8 +31,8 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-+Rt8iKATTcS4lJwzOVupnY95QLDIoKdW228hSCzBifg=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-i8yLC1pzEZMAPAHK2MyunJW81S6Tpyvwka9LDZSylx8=",
-      "SimpleRegex.Blazor.wasm": "sha256-Qrt9+uNqUiJ3/9OrbNszzBez5UgZ6wGa8kWqSsdU4/8=",
-      "SimpleRegex.wasm": "sha256-dNE5+Bt4wiuvS8mVwLA/HUoJjxmHUm+1Axj/CoIwuuI=",
+      "SimpleRegex.Blazor.wasm": "sha256-bIlwT0ntt06ZU5rlPLwyZufswyAYULu+Zoy6JJlfi6M=",
+      "SimpleRegex.wasm": "sha256-4Nrok7G1EKCO66XS9xrUf8CJx+uqqVE1Blal8MviC5c=",
       "System.Collections.Concurrent.wasm": "sha256-KIu0CYFvTS4vC+hMDEaJ7dJ378ocrJAOcMDBvsWCwZI=",
       "System.Collections.wasm": "sha256-pqGKUe2369Oe0CpgSzbSscIO6zbjvlaoLUwFUue58aU=",
       "System.ComponentModel.wasm": "sha256-ZQumzHtMyxvojdF7oHBBb8pLXJYa4ErOf6oZOZey1OU=",
